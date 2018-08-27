@@ -24,6 +24,10 @@ The newest update of Java 8 JDK.
 
 This project is licensed under the GNU General Public Licence - see the [COPYING.txt](COPYING.txt) file for details
 
+## Documentation
+
+* [Auto-generated Javadoc](https://njvnba11.github.io/CChat-Server/)
+
 ## Acknowledgments
 
 * Any chat room I have used for reference
